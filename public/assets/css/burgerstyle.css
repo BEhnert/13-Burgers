@@ -1,0 +1,43 @@
+body{
+  text-align:center;
+  color:white;
+  background-color:orange;
+  margin-top: 50px;
+}
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  ul  {
+  color:black;
+  text-align: center;
+  font-weight: 900;
+  }
+
+  h5 {
+    color: purple;
+  }
+
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  .available{
+    color: green;
+  }
+  
+  .devoured{
+    color: red;
+  }
